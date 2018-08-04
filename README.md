@@ -12,3 +12,5 @@ Aplicación de escritorio desarrollada en java y swing que plantea un sencillo r
 ![](https://user-images.githubusercontent.com/35290259/43680942-99394efc-9846-11e8-9b61-46bd9ddc2bf7.PNG)
 
 ![](https://user-images.githubusercontent.com/35290259/43680943-99523fac-9846-11e8-9214-e3642f2fc640.PNG)
+
+![](https://user-images.githubusercontent.com/35290259/43680944-9969fed0-9846-11e8-9f20-781eb3ed97c9.PNG)
